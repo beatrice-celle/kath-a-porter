@@ -10,6 +10,8 @@
 
 @import url("components/card.css");
 
+@import url("components/bottombanner.css");
+
 body {
   font-family: 'Lora', serif;
   font-size: 25px;
